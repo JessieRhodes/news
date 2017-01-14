@@ -1,0 +1,16 @@
+#CrossFit WOD of the Day Finder
+
+a web app that lets users find and leave comments on CrossFit's Workouts;
+
+uses Mongoose and Cheerio to scrape news from CrossFit.com
+
+Technologies:
+
+express
+mongoose
+body-parser
+cheerio
+request
+-------
+HTML/CSS
+bootstrap
